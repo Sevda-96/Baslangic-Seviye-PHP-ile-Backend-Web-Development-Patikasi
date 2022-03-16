@@ -32,3 +32,4 @@ function showTime(){
 
 // her 1 saniyede tarihSaat fonksiyonunu yeniden çalıştır
 setInterval(showTime, 1000);
+
