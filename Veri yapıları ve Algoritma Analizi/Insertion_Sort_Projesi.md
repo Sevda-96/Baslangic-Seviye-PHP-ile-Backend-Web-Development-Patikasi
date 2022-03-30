@@ -2,7 +2,7 @@
 ## [22,27,16,2,18,6] -> Insertion Sort
 ### 1-)Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-![](https://github.com/Sevda-96/myfirstwebsite/blob/main/insertion-sort.jpeg)
+![](https://github.com/Sevda-96/myfirstwebsite/blob/main/Veri%20yap%C4%B1lar%C4%B1%20ve%20Algoritma%20Analizi/insertion-sort.jpeg)
 
 ### 2-) Big-O gösterimini yazınız.
 
